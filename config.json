@@ -1,6 +1,6 @@
 {
     "app_id" : "com.icttrainers.elearning",
-    "appname": "ICT Trainers eLearning",
+    "appname": "ICT Trainers",
     "versioncode" : "20170",
     "versionname" : "1",
     "cache_expiration_time" : 300000,
@@ -10,7 +10,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
+    "siteurl": "http://icttrainers.net",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     }
