@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.icttrainers.elearning"
         versionCode = "20170"
-        version   = "1">
+        version   = "2">
     <name>ICT Trainers</name>
 
     <description>
